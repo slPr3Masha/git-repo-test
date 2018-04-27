@@ -1,2 +1,1 @@
 print("WELCOME");
-print("How do you do?");
